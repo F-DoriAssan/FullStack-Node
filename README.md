@@ -1,40 +1,35 @@
-# F-DoriAssan
+Full Stack com Node
+Bem-vindo ao repositório Full Stack com Node. Aqui você encontrará vários arquivos e projetos relacionados com a autenticação de login e a conexão com bancos de dados.
 
-Bienvenido al repositorio **F-DoriAssan**. Aquí encontrarás varios archivos y proyectos relacionados con la autenticación de login y la conexión a bases de datos.
+Arquivos e Projetos
+Login-Token-Autenticacao
 
-## Archivos y Proyectos
+Descrição: Implementação de autenticação utilizando tokens de login.
+Data de Atualização: Há 6 meses
+Arquivo: Login-Token-Autenticacao
+Arquivos_ejs
 
-- **Login-Token-Autenticacion**
-  - **Descripción**: Implementación de autenticación utilizando tokens de login.
-  - **Fecha de actualización**: Hace 6 meses
-  - **Archivo**: `Login-Token-Autenticacion`
+Descrição: Arquivos relacionados com EJS (Embedded JavaScript).
+Data de Atualização: Há 7 meses
+Arquivo: Arquivos-ejs
+Conexao_Mongoose_tablasNsql
 
-- **Archivos_ejs**
-  - **Descripción**: Archivos relacionados con EJS (Embedded JavaScript).
-  - **Fecha de actualización**: Hace 7 meses
-  - **Archivo**: `Archivos-ejs`
+Descrição: Conexão com MongoDB usando Mongoose para trabalhar com tabelas NoSQL.
+Data de Atualização: Há 7 meses
+Arquivo: Conexao_MongoDbCompass_TabelaNsql
+Conexao_ServidorHTTP
 
-- **Conexion_Mongoose_tablasNsql**
-  - **Descripción**: Conexión a MongoDB usando Mongoose para trabajar con tablas NoSQL.
-  - **Fecha de actualización**: Hace 7 meses
-  - **Archivo**: `Conexion_MongoDbCompass_TablaNsql`
+Descrição: Configuração da conexão do servidor HTTP.
+Data de Atualização: Há 7 meses
+Arquivo: conexao do servidor http
+Login_Verificacao_Token
 
-- **Conexion_ServidorHTTP**
-  - **Descripción**: Configuración de la conexión del servidor HTTP.
-  - **Fecha de actualización**: Hace 7 meses
-  - **Archivo**: `conexion del servidor http`
+Descrição: Verificação de tokens de login.
+Data de Atualização: Há 6 meses
+Arquivo: Login-Token-Autenticacao
+Informações Adicionais
+Para mais detalhes sobre o projeto, como utilizar os arquivos ou para contribuir, por favor, consulte os documentos específicos dentro de cada pasta ou arquivo neste repositório.
 
-- **Login_Verificacion_Token**
-  - **Descripción**: Verificación de tokens de login.
-  - **Fecha de actualización**: Hace 6 meses
-  - **Archivo**: `Login-Token-Autenticacion`
+Token de Autenticação: 40af3cb
 
-## Información Adicional
-
-Para más detalles sobre el proyecto, cómo utilizar los archivos, o para contribuir, por favor revisa los documentos específicos dentro de cada carpeta o archivo en este repositorio.
-
----
-
-**Token de Autenticación**: `40af3cb`
-
-Gracias por visitar el repositorio **F-DoriAssan**.
+Obrigado por visitar o repositório Full Stack com Node.
